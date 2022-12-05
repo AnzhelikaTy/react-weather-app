@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>React Weather App</p>
+        <h1>React Weather App</h1>
         <Weather city="Kyiv" />
       </header>
       <footer>
