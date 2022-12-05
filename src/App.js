@@ -9,7 +9,10 @@ function App() {
         <Weather city="Kyiv" />
       </header>
       <footer>
-        <a href="https://github.com/AnzhelikaTy/react-weather-app.git">
+        <a
+          href="https://github.com/AnzhelikaTy/react-weather-app.git"
+          target="_blank"
+        >
           Open-source code
         </a>{" "}
         by Anzhelika Susemcik
